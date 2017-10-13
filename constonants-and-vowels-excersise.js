@@ -1,6 +1,6 @@
 // JavaScript Document
 // Author: Eric Perez
-// Pattern #1: Vowels And Consonants Excercise
+// Excercise #1: Vowels And Consonants
 
 /*
 Task:
