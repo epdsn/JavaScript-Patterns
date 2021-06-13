@@ -1,3 +1,13 @@
 div:first {
     border:solid 1px green;
 }
+.card {
+    margin-bottom: 5px;
+    padding: 5px 10px;
+}
+
+#Ad {
+    background-color: #b1b1b1;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
